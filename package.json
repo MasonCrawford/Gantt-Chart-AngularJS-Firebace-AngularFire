@@ -1,0 +1,25 @@
+{
+  "name": "GanttChart",
+  "version": "0.0.1",
+  "description": "An anguler aplication for creating displaying and shearing Gantt chart",
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "author": "Mason Crawford",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp-connect": "^5.0.0"
+  }
+}
